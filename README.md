@@ -17,3 +17,5 @@ Designed specifically for use with the BoldGrid suite of plugins, all BoldGrid t
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
+
+## I added This using GIT
