@@ -18,4 +18,4 @@ Designed specifically for use with the BoldGrid suite of plugins, all BoldGrid t
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-## I added This using GIT
+## I edited this using GitHub
